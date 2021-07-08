@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanniru-yashwanth
-- 👀 I’m interested in IT-Sector
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking for Fresher positions
+- 💞️ I’m looking for Fresher opportunities
 - 📫 U can reach me at tanniruyashwanth07@gmail.com
 
 <!---
